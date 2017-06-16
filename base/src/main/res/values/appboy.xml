@@ -1,0 +1,11 @@
+<resources>
+    <string translatable="false" name="com_appboy_api_key">1d502a81-f92f-48d4-96a7-1cbafc42b425</string>
+    <string translatable="false" name="com_appboy_server_target">STAGING</string>
+
+    <bool name="com_appboy_push_gcm_messaging_registration_enabled">true</bool>
+
+    <string translatable="false" name="com_appboy_push_gcm_sender_id">901477453852</string>
+    <drawable name="com_appboy_push_small_notification_icon">@drawable/com_appboy_inappmessage_chevron</drawable>
+
+    <bool name="com_appboy_handle_push_deep_links_automatically">true</bool>
+</resources>

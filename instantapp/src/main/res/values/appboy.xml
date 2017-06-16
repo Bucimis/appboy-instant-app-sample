@@ -1,0 +1,5 @@
+<resources>
+    <integer name="com_appboy_data_flush_interval_bad_network">10</integer>
+    <integer name="com_appboy_data_flush_interval_good_network">10</integer>
+    <integer name="com_appboy_data_flush_interval_great_network">10</integer>
+</resources>
